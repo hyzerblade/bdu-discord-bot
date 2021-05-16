@@ -5,7 +5,7 @@ easily watch any ethereum contract for events and update discord channels in rea
 
 ## Setup
 
-There are four fields in the config.ini file which the user must provide.
+There are four fields in the config.ini file which the user must provide before running bountyboy.py:
    
    1. **contract_address:** The ethereum address of the contract to be watched.
    2. **contract_abi_path:** Path to the ABI of the contract.
